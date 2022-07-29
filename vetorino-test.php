@@ -120,7 +120,7 @@ function loyalty_points_form(): void {
 		    $coupon->save();
 
 		    // API key authorization
-		    $config = SendinBlue\Client\Configuration::getDefaultConfiguration()->setApiKey('api-key', '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');
+		    $config = SendinBlue\Client\Configuration::getDefaultConfiguration()->setApiKey('api-key', 'MY-KEY');
 
 		    $apiInstance = new SendinBlue\Client\Api\TransactionalEmailsApi(
                 // If you want use custom http client, pass your client which implements `GuzzleHttp\ClientInterface`.
