@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/../../wordpress-6.0.1/wordpress" />
+      <path value="$PROJECT_DIR$/lib/psr/http-client" />
+      <path value="$PROJECT_DIR$/lib/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/lib/psr/http-message" />
+      <path value="$PROJECT_DIR$/lib/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/lib/psr/http-factory" />
+      <path value="$PROJECT_DIR$/lib/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/lib/sendinblue/api-v3-sdk" />
+      <path value="$PROJECT_DIR$/lib/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/lib/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/lib/composer" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.0" />
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="dc50c48e-ce81-4b6d-bd41-6d8c230bf1e0" name="Sygrie Web Vetorino" url="https://vetorino.sygrie.fr/">
+        <fileTransfer rootFolder="/httpdocs/wp-content/plugins/vetorino-test" accessType="FTPS" host="46.226.105.65" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

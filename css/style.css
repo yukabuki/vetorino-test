@@ -1,0 +1,10 @@
+#loyalty_points_content form > div {
+    display: flex;
+}
+
+#loyalty_points_content .vt_msg {
+    font-size: 1.5rem;
+}
+#loyalty_points_content .nopoints_msg {
+    font-weight: bold;
+}
